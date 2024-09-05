@@ -14,10 +14,10 @@ Irei apresentar meu como tabela de conteúdo, tecnologias, badges entre outros.
 
 ## Tabela de Conteúdo
 <ul>
-    <li><a href="#descricao"></a>Descrição</li>
-    <li><a href="#status"></a>Status do Projeto</li>
-    <li><a href="#features"></a>Features</li>
-    <li><a href="#mapa"></a>Mapa do Projeto</li>
+    <li><a href="#descricao">Descrição</a></li>
+    <li><a href="#status">Status do Projeto</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#mapa">Mapa do Projeto</a></li>
 </ul>
 
 ## :rocket: Status do Projeto
